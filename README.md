@@ -1,2 +1,3 @@
-# pukiwiki-plugins
-The repository of custom plugins for Pukiwiki 
+# アーカイブします
+https://github.com/umorigu/twilight-breeze__pukiwiki-plugins
+がより適切な対応をされているので、こちらはアーカイブします。
